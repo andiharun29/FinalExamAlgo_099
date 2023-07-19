@@ -135,9 +135,6 @@ int main() {
 	return 0;
 }
 
-
-
-
 // 2. Berdasarkan studi kasus diatas, algoritma apa saja yang anda gunakan?
 //    = prosedural dan binary search
 // 3. Jelaskan perbedaan mendasar antara algorithma stack dan queue!
